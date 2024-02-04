@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Casmir, a full-time full-stack freelance Web3 developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
